@@ -6,27 +6,27 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: Add here the input artifact
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: Add here the output artifact
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: Add here the type of the output artifact
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: Add here the description of the output artifact
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
+        description: Add the minimum prize for the rental price
         type: string
 
       max_price:
-        description: ## ADD DESCRIPTION
+        description: Add the maximum prize for the rental price
         type: string
 
 
